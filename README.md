@@ -4,13 +4,17 @@ This project allows a Raspberry Pi 4 to receive temperature, humidity, and magne
 
 ## Features
 
-# HTTP Server: A Flask-based server that receives data from the Pico W.
+# HTTP Server:
+A Flask-based server that receives data from the Pico W.
 
-# Data Visualization: Generates line charts for temperature, humidity, and magnetometer readings using Matplotlib.
+# Data Visualization:
+Generates line charts for temperature, humidity, and magnetometer readings using Matplotlib.
 
-# Web Interface: Access the charts by navigating to the RPi 4's IP address.
+# Web Interface:
+Access the charts by navigating to the RPi 4's IP address.
 
-# REST API: POST endpoint for the Pico W to send sensor data.
+# REST API:
+POST endpoint for the Pico W to send sensor data.
 
 
 ## Requirements
